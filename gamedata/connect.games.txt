@@ -71,7 +71,7 @@
 			}
 		}
 	}
-	"tf"
+	"tf2classified"
 	{
 		"Signatures"
 		{

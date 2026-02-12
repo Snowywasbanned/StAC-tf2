@@ -362,7 +362,7 @@
 		}
 	}
 
-	"tf"
+	"tf2classified"
 	{
 		"Addresses"
 		{
