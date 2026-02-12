@@ -495,7 +495,7 @@ public void TF2_OnConditionRemoved(int cl, TFCond condition)
 
 public Action ePlayerAchievement(Handle event, char[] name, bool dontBroadcast)
 {
-    // ent index of achievement earner
+    // ent index of achievement earnerr
     int cl              = GetEventInt(event, "player");
     int userid          = GetClientUserId(cl);
 
